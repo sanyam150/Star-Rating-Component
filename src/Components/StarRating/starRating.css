@@ -1,0 +1,7 @@
+#star_wrapper {
+  display: flex;
+  justify-content: center;
+}
+.radio_button_input {
+  display: none;
+}

@@ -3,4 +3,7 @@
   min-width: 300px;
   border-radius: 8px;
   background-color: #d8a2ff8a;
+  min-height: 266px;
+  font-family: system-ui;
+  box-shadow: 0px 0px 5px 2px #000000d1;
 }
